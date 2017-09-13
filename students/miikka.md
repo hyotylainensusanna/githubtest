@@ -1,3 +1,1 @@
-Miikka
-
-Moi miikka t. olli
+MiikkaMoimiikkat.olliMiikkaparhaansayrittää
