@@ -18,7 +18,7 @@
 
 - Commit your changes [How to write good commit messages](https://chris.beams.io/posts/git-commit/)
 
-`git commit -m '<informative-commit-message-here>`
+`git commit -m '<informative-commit-message-here>'`
 
 - Push your changes
 
